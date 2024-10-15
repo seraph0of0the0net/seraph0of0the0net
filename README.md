@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seraph0of0the0net
-- 👀 I’m interested in C++ and AI
+- 👀 I’m interested in C/C++ and AI
 - 🌱 I’m currently learning HTML and JavaScript 
 - 💞️ I’m looking to collaborate on creating something new
 
